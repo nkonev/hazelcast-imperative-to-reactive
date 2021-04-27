@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.hazelcast.cache</groupId>
-    <artifactId>imperative-to-reactive</artifactId>
+    <artifactId>hazelcast-imperative-to-reactive</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <java.version>11</java.version>
